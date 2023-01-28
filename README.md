@@ -1,6 +1,6 @@
-# prework-study-guide
+# Study Guide Webpage
 
-## Boot Camp Prework Study Guide for Students
+## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
